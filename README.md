@@ -1,4 +1,4 @@
-# youtube-clone_web_clone
+<!-- # youtube-clone_web_clone
 You can see live demo here : https://upbeat-albattani-6b7dc7.netlify.app/
 
 ## What is Youtube:
@@ -8,7 +8,7 @@ YouTube is a free video sharing website that makes it easy to watch online video
 ![download](https://user-images.githubusercontent.com/95956384/159520668-a06be7d1-37da-462f-8dba-3719d765f1a8.png)
 
 
-# Snapshots
+# Sections
  Sign UP page:
 (https://user-images.githubusercontent.com/95956384/159521534-4bb74c95-8d6d-4a68-a6e7-c3c585ea8c62.png)
  
@@ -42,3 +42,4 @@ Video Page :
 - Open the `Index.html` on Live server
 - Then you can Navigate through other pages from Landing page like `signin.html`, `Login.html`, `Video.html` etc.
 
+ -->
