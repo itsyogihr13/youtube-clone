@@ -17,10 +17,10 @@ YouTube is a free video sharing website that makes it easy to watch online video
 
 
  Home page
-<!-- ![image](https://user-images.githubusercontent.com/95956384/159521330-4ea5f84b-fab4-402b-a8de-b909016986bb.png) -->
+ ![image](https://user-images.githubusercontent.com/95956384/159521330-4ea5f84b-fab4-402b-a8de-b909016986bb.png) 
 
 Video Page :
-<!-- ![image](https://user-images.githubusercontent.com/95956384/159521921-78f228d9-040e-46f8-bf80-d69abe97d509.png) -->
+![image](https://user-images.githubusercontent.com/95956384/159521921-78f228d9-040e-46f8-bf80-d69abe97d509.png) 
 
 
 
@@ -31,7 +31,8 @@ Video Page :
 
 # Features
 1. You will be able to create your account using login and signup option.
-2  Users can search for and watch videos.
+2.  Users can search for and watch videos.
+
 
 
 
