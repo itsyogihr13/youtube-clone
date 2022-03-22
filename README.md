@@ -10,7 +10,7 @@ YouTube is a free video sharing website that makes it easy to watch online video
 
 # Snapshots
  Sign UP page:
-<!--  ![image](https://user-images.githubusercontent.com/95956384/159521534-4bb74c95-8d6d-4a68-a6e7-c3c585ea8c62.png) -->
+(https://user-images.githubusercontent.com/95956384/159521534-4bb74c95-8d6d-4a68-a6e7-c3c585ea8c62.png)
  
  Login Page:
 <!--  ![image](https://user-images.githubusercontent.com/95956384/159521675-507336e9-3c57-4112-9170-7864c805f4a9.png) -->
